@@ -13,6 +13,7 @@
 ![Στιγμιότυπο οθόνης 2023-08-10 165356](https://github.com/KostantinosPapachristos/SuperMarketBasket/assets/141930682/2f15616b-95a6-4a4e-8cf3-5ac1a29f903c)
 
 ![Στιγμιότυπο οθόνης 2023-08-10 165409](https://github.com/KostantinosPapachristos/SuperMarketBasket/assets/141930682/a3d55222-7798-472d-8825-989cb4b0f84c)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Its a very simple consept whenever you insert an item it gets inserted and the same goes for Delete, Search and Change. When you press 0 the app closes and shows the items that are in the Basket(list).
